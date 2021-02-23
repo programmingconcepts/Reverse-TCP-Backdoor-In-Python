@@ -7,11 +7,11 @@ Put any file in startup directory of Target running Windows OS.
   
     
 USAGE:
-grab [Filename]:      To copy a file from target machine to attacker machine
-cd [DIR]:             To change directory
-transfer [Filename]:  To transfer file from attacker machine to target machine
-startup [filename]:   To put a file in startup registery of target machine (only Windows)
-terminate:            To terminate the exploit on both ends
+grab [Filename]:      To copy a file from target machine to attacker machine.
+cd [DIR]:             To change directory.
+transfer [Filename]:  To transfer file from attacker machine to target machine.
+startup [filename]:   To put a file in startup registery of target machine (only Windows).
+terminate:            To terminate the exploit on both ends.
   
 CMD and Terminal commands also work as per target OS.
 
